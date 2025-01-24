@@ -293,8 +293,8 @@ if __name__ == "__main__":
     
     # # Option 2: Transfer Liked Songs to a new playlist
     # transfer_playlist(
-    #     spotify_liked_songs=True,
-    #     youtube_playlist_name="My Liked Songs from Spotify"
+    #     spotify_playlist_id="id",
+    #     youtube_playlist_id="youtube playlist id"
     # )
     
     # Option 3: Transfer Liked Songs to an existing playlist
